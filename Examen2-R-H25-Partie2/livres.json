@@ -1,0 +1,42 @@
+[
+  {
+    "ISBN": "978-3-16-148410-0",
+    "Titre": "Le Mystère de la Chambre Jaune",
+    "Auteur": "Gaston Leroux",
+    "Prix": 12.5,
+    "NombrePages": 320,
+    "AnneePublication": 1907
+  },
+  {
+    "ISBN": "978-2-07-036822-8",
+    "Titre": "L'Étranger",
+    "Auteur": "Albert Camus",
+    "Prix": 9.99,
+    "NombrePages": 185,
+    "AnneePublication": 1942
+  },
+  {
+    "ISBN": "978-0-7432-7356-5",
+    "Titre": "Da Vinci Code",
+    "Auteur": "Dan Brown",
+    "Prix": 14.99,
+    "NombrePages": 489,
+    "AnneePublication": 2003
+  },
+  {
+    "ISBN": "978-2-266-11156-5",
+    "Titre": "Les Misérables",
+    "Auteur": "Victor Hugo",
+    "Prix": 18.5,
+    "NombrePages": 1232,
+    "AnneePublication": 1862
+  },
+  {
+    "ISBN": "978-2-07-036053-6",
+    "Titre": "1984",
+    "Auteur": "George Orwell",
+    "Prix": 10.5,
+    "NombrePages": 328,
+    "AnneePublication": 1949
+  }
+]
